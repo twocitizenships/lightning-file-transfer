@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.Web/LightningTransfer.Web.csproj",
-      "projectName": "LightningTransfer.Web",
-      "projectPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.Web/LightningTransfer.Web.csproj",
+      "projectUniqueName": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.API/LightningTransfer.API.csproj",
+      "projectName": "LightningTransfer.API",
+      "projectPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.API/LightningTransfer.API.csproj",
       "packagesPath": "/Users/clusk/.nuget/packages/",
-      "outputPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.Web/obj/",
+      "outputPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/clusk/.nuget/NuGet/NuGet.Config"
+        "/Users/clusk/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
