@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UH0d4pm2kVVNSnL9C/UE904h6+h9F70AwqGLVRqDQuMBxOdHmnMGjlflw9Af35WBMdf2ork/RCvZDE9Pss8Ibg==",
+  "dgSpecHash": "rqfFKo3NfowJvAzQOVc0N+h6u9IVlBbkokiAUseI0Tsdi0pLfaK0yxl2KFrEXAbgLpFDyh8Grw/QxNTpWlENig==",
   "success": true,
-  "projectFilePath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer/lightning-transfer.csproj",
+  "projectFilePath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

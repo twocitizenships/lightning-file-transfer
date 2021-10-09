@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/clusk/.dotnet/store/|arch|/|tfm|",
-      "/Users/clusk/.nuget/packages"
-    ]
-  }
-}

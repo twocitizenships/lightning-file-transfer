@@ -1,0 +1,7 @@
+/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/obj/Debug/netcoreapp3.1/LightningTransfer.API.csproj.AssemblyReference.cache
+/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/obj/Debug/netcoreapp3.1/LightningTransfer.API.AssemblyInfoInputs.cache
+/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/obj/Debug/netcoreapp3.1/LightningTransfer.API.AssemblyInfo.cs
+/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/obj/Debug/netcoreapp3.1/LightningTransfer.API.csproj.CoreCompileInputs.cache
+/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/obj/Debug/netcoreapp3.1/LightningTransfer.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/obj/Debug/netcoreapp3.1/LightningTransfer.API.RazorAssemblyInfo.cache
+/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/obj/Debug/netcoreapp3.1/LightningTransfer.API.RazorAssemblyInfo.cs

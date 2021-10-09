@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer/lightning-transfer.csproj",
-      "projectName": "lightning-transfer",
-      "projectPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer/lightning-transfer.csproj",
+      "projectUniqueName": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.API.csproj",
+      "projectName": "LightningTransfer.API",
+      "projectPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.API.csproj",
       "packagesPath": "/Users/clusk/.nuget/packages/",
-      "outputPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer/obj/",
+      "outputPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/clusk/.config/NuGet/NuGet.Config"

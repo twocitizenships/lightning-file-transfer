@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer/lightning-transfer.csproj": {}
+    "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer.csproj": {}
   },
   "projects": {
-    "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer/lightning-transfer.csproj": {
+    "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer/lightning-transfer.csproj",
+        "projectUniqueName": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer.csproj",
         "projectName": "lightning-transfer",
-        "projectPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer/lightning-transfer.csproj",
+        "projectPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer.csproj",
         "packagesPath": "/Users/clusk/.nuget/packages/",
-        "outputPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/lightning-transfer/obj/",
+        "outputPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/clusk/.config/NuGet/NuGet.Config"
+          "/Users/clusk/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

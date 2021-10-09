@@ -1,18 +1,11 @@
-﻿<Properties StartupConfiguration="{2D0A5F04-9770-4FAA-8C87-7F1BCA952467}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="lightning-transfer/Properties/launchSettings.json">
-    <Files>
-      <File FileName="lightning-transfer/WeatherForecast.cs" Line="1" Column="1" />
-      <File FileName="lightning-transfer/Properties/launchSettings.json" Line="1" Column="1" />
-    </Files>
+﻿<Properties StartupConfiguration="{83631C92-4EAF-42EE-A0FF-4CDAC221CA59}|Default">
+  <MonoDevelop.Ide.ItemProperties.LightningTransfer.Web FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="lightning-transfer" expanded="True" selected="True">
-            <Node name="lightning-transfer" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="appsettings.json" expanded="True" />
-            </Node>
+          <Node name="lightning-transfer" expanded="True">
+            <Node name="LightningTransfer.Web" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -20,7 +13,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.lightning-transfer PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
