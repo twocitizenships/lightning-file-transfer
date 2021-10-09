@@ -1,2 +1,2 @@
 # file-transfer
-C# site for transferring files between two people
+Protocol for sending files using Bitcoin Lightning micropayments
