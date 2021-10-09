@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.API/LightningTransfer.API.csproj": {}
+    "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.Data/LightningTransfer.Data.csproj": {}
   },
   "projects": {
-    "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.API/LightningTransfer.API.csproj": {
+    "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.Data/LightningTransfer.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.API/LightningTransfer.API.csproj",
-        "projectName": "LightningTransfer.API",
-        "projectPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.API/LightningTransfer.API.csproj",
+        "projectUniqueName": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.Data/LightningTransfer.Data.csproj",
+        "projectName": "LightningTransfer.Data",
+        "projectPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.Data/LightningTransfer.Data.csproj",
         "packagesPath": "/Users/clusk/.nuget/packages/",
-        "outputPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.API/obj/",
+        "outputPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/clusk/.config/NuGet/NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Npgsql": {
-              "target": "Package",
-              "version": "[5.0.10, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -54,9 +48,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -14,7 +14,7 @@
         "outputPath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/clusk/.nuget/NuGet/NuGet.Config"
+          "/Users/clusk/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -37,6 +37,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

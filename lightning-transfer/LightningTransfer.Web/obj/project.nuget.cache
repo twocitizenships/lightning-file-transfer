@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TzVnfkYxSs02Wuw3hE3UWeZuO0/A7RenK9M7+r3SDzuzcnsfK/ojocXmI4YVtDlVm4tEA9bxXZ7mIdAWUX+CIw==",
+  "dgSpecHash": "v6Nsc7WsLgnQl/FsiGik1UJudUWi7pjilXkcUaftu2y9HvQ+DFT/+PaPSnrBpp0VAZMKuvWWHm9c02DDwVb4hQ==",
   "success": true,
   "projectFilePath": "/Users/clusk/Documents/OtherRepositories/file-transfer/lightning-transfer/LightningTransfer.Web/LightningTransfer.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/clusk/.nuget/packages/npgsql/5.0.10/npgsql.5.0.10.nupkg.sha512",
+    "/Users/clusk/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
